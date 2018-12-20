@@ -1,0 +1,91 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "NHqE67y+/xEkTTqnXt2HvwubP38=",
+			"path": "github.com/cznic/b",
+			"revision": "35e9bbe41f07452a183c517a5fc5f3c9f45eaa0f",
+			"revisionTime": "2018-01-15T12:50:44Z"
+		},
+		{
+			"checksumSHA1": "CbzNfOvaT1G3G9WILmsyjYfYTO0=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "b27b920f9e71b439b873b17bf99f56467623814a",
+			"revisionTime": "2018-08-21T05:17:52Z"
+		},
+		{
+			"checksumSHA1": "ze1R6Lrk0kW0cX24ZdZD6ZpIDCo=",
+			"path": "github.com/samuel/go-zookeeper/zk",
+			"revision": "c4fab1ac1bec58281ad0667dc3f0907a9476ac47",
+			"revisionTime": "2018-01-30T19:37:22Z"
+		},
+		{
+			"checksumSHA1": "6R6VIJm2rsJ2X44pX4ElzFlKfvs=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "fc587f31c804fe6853cd90f0d8d90af588eca5bd",
+			"revisionTime": "2018-08-17T01:25:29Z"
+		},
+		{
+			"checksumSHA1": "NJKWtripBL8AsiruVwhTYvXCL1s=",
+			"path": "github.com/tsuna/gohbase",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "SROpM9fCmWDvcCy6Kd73mpqe0n8=",
+			"path": "github.com/tsuna/gohbase/filter",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "Z9x9Q/VCLkjJr8THoq5zkfRC/eI=",
+			"path": "github.com/tsuna/gohbase/hrpc",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "VcCtE7HaUMpz0Kqu8m0LiNtMQQQ=",
+			"path": "github.com/tsuna/gohbase/pb",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "Oc9dIJ1fsGibBwvEzo7F70p+O3o=",
+			"path": "github.com/tsuna/gohbase/region",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "KuFWXezcEEfHnGlhIJvl3aUepL8=",
+			"path": "github.com/tsuna/gohbase/zk",
+			"revision": "f518fd74c7caabdd2d67ec66a08d50a124c7db3d",
+			"revisionTime": "2018-06-14T04:13:53Z"
+		},
+		{
+			"checksumSHA1": "BGm8lKZmvJbf/YOJLeL1rw2WVjA=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "614d502a4dac94afa3a6ce146bd1736da82514c6",
+			"revisionTime": "2018-07-28T08:01:47Z"
+		},
+		{
+			"checksumSHA1": "q5G92Cv5apjnADinMT3lSUMaBV4=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "4ea2f632f6e912459fe60b26b1749377f0d889d5",
+			"revisionTime": "2018-08-21T03:36:55Z"
+		},
+		{
+			"checksumSHA1": "apLcjhTfa/nKhpXTXjpfIZxVTKQ=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "4ea2f632f6e912459fe60b26b1749377f0d889d5",
+			"revisionTime": "2018-08-21T03:36:55Z"
+		},
+		{
+			"checksumSHA1": "HoCvrd3hEhsFeBOdEw7cbcfyk50=",
+			"path": "golang.org/x/time/rate",
+			"revision": "fbb02b2291d28baffd63558aa44b4b56f178d650",
+			"revisionTime": "2018-04-12T16:56:04Z"
+		}
+	],
+	"rootPath": "github.com/Hchenn/hbase"
+}
